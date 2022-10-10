@@ -15,6 +15,11 @@ Follow this [link](https://erin-wettstone.shinyapps.io/DashboardDesign_GUI/) to 
 
 There are guided pop-up boxes to explain how to use the GUI for dashboard design. These basic instructions have also been outlined below:
 
+1. num list example
+2. num list example2
+3. etc
+4. 
+
 ## History
 https://dhakaesforsars-cov-2.research.virginia.edu/ 
 
