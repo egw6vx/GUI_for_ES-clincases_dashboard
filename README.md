@@ -4,7 +4,18 @@
 
 ## User Instructions
 
+Follow this [link](https://erin-wettstone.shinyapps.io/DashboardDesign_GUI/) to access the GUI. A screenshot of the interface is included below.
+
+
+
+
+There are guided pop-up boxes to explain how to use the GUI for dashboard design. These basic instructions have also been outlined below:
+
 ## History
+https://dhakaesforsars-cov-2.research.virginia.edu/ 
+
+### Acknowledgements
+The backbone for the original ES dashboard in Dhaka is supported by the Bill & Melinda Gates Foundation. This project would not be possible without our collaborators at icddrb, IEDCR, a2i, and Imperial College of London.
 
 # Authors
 **Erin Wettstone**, Division of Infectious Diseases and International Health, University of Virginia
