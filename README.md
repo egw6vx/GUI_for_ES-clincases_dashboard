@@ -2,6 +2,9 @@
 
 ## About
 
+This GUI was created in order to help researchers develop their own COVID-19 dashboards for the simaltaneous display of 1) Environmental Surveillance viral load data for SARS-CoV-2 and 2) COVID-19 clinical case data. Development of a dashboard is often code-intensive and requires dedicated personnel, but this GUI provides a user-friendly interface for customizing dasboard design and uploading data. 
+
+
 ## User Instructions
 
 Follow this [link](https://erin-wettstone.shinyapps.io/DashboardDesign_GUI/) to access the GUI. A screenshot of the interface is included below.
