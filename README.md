@@ -21,7 +21,13 @@ There are guided pop-up boxes to explain how to use the GUI for dashboard design
 4. 
 
 ## History
+
+The dashboard that is output by this GUI is a reflection of the environmental surveillance dashboard linked here:
 https://dhakaesforsars-cov-2.research.virginia.edu/ 
+
+The Dhaka dashboard was created in order to relay our 
+
+After presenting this dashboard at international conferences and discussing it with research teams in Pakistan, India, and Nepal, it was clear that these teams desired a way to present their results to public health officials and government partners. However, some teams lacked the dedicated personnel to design a computational-heavy dashboard. This GUI serves as solution to the need for dedicated personnel, and instead allows research teams to design the dashboard themselves.
 
 ### Acknowledgements
 The backbone for the original ES dashboard in Dhaka is supported by the Bill & Melinda Gates Foundation. This project would not be possible without our collaborators at icddrb, IEDCR, a2i, and Imperial College of London.
