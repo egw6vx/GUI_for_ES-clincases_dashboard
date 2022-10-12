@@ -9,7 +9,7 @@ This GUI was created in order to help researchers develop their own COVID-19 das
 
 Follow this [link](https://erin-wettstone.shinyapps.io/DashboardDesign_GUI/) to access the GUI. A screenshot of the interface is included below.
 
-<img width="1244" alt="image" src="https://user-images.githubusercontent.com/115464310/194850657-c4856dfa-fcc2-48f0-8874-b33af334d5ab.png">
+![image](https://user-images.githubusercontent.com/115464310/195229308-3e5f4870-948d-4168-a313-19f2cb21dc14.png)
 
 
 
