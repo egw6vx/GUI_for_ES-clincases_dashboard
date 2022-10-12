@@ -1,4 +1,5 @@
-# Design your own Environmental Surveillance and Clinical Cases dashboard
+# Graphical user interface for a dashboard tool with simultaneous visualization of environmental surveillance and clinical case data 
+
 
 ## About
 
