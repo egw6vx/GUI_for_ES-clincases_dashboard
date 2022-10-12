@@ -1,4 +1,4 @@
-# Graphical user interface for a dashboard tool with simultaneous visualization of environmental surveillance and clinical case data 
+# Graphical user interface (GUI) for a dashboard tool with simultaneous visualization of environmental surveillance and clinical case data 
 
 
 ## About
